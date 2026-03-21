@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **Backend and full-stack web projects**
 
-- 👯 I'm looking to collaborate on **Beginner-friendly open source projects**
-
 - 📫 How to reach me **SHUBHAMBHAGAT3220@GMAIL.COM**
 
 <h3 align="left">Connect with me:</h3>
